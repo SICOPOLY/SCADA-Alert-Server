@@ -1,23 +1,5 @@
-|17/03/2013  22:58:43|Error|Visor de Eventos   v1.0|CM_LOAD_LOG->fopen()|El sistema no puede encontrar el archivo especificado.
-
-|17/03/2013  22:58:51|Test|SCADA Alert Server    v1.0.0|INCOMMING_SCADA_CONNECTION->FD_ACCEPT|FD_ACCEPT
-|17/03/2013  22:58:51|Exito|SCADA Alert Server    v1.0.0|WSAAsyncSelect()|Se le asigno el evento FD_READ, FD_WRITE y FD_CLOSE al socket: 544.
-|17/03/2013  22:58:51|Test|SCADA Alert Server    v1.0.0|SOCKET_SCADA_READY->FD_WRITE|FD_WRITE
-|17/03/2013  22:58:51|Test|SCADA Alert Server    v1.0.0|SOCKET_SCADA_READY->FD_WRITE|FD_WRITE en socket: 544
-|17/03/2013  22:58:52|Test|SCADA Alert Server    v1.0.0|SOCKET_SCADA_READY->FD_READ|FD_READ
-|17/03/2013  22:58:54|Test|SCADA Alert Server    v1.0.0|SOCKET_SCADA_READY->FD_READ|Recibido: comando
-
-
-|17/03/2013  22:59:01|Test|SCADA Alert Server    v1.0.0|INCOMMING_TERMINAL_CONNECTION->FD_ACCEPT|FD_ACCEPT
-|17/03/2013  22:59:01|Exito|SCADA Alert Server    v1.0.0|WSAAsyncSelect()|Se le asigno el evento FD_READ, FD_WRITE y FD_CLOSE al socket: 544.
-|17/03/2013  22:59:01|Test|SCADA Alert Server    v1.0.0|PUERTO_TERMINALES_READY->FD_WRITE|FD_WRITE
-|17/03/2013  22:59:03|Informacion|Visor de Eventos   v1.0|CM_LOAD_LOG()|Se borraron todos los elementos que habian previamente en el listview.
-|17/03/2013  22:59:06|Test|SCADA Alert Server    v1.0.0|PUERTO_TERMINALES_READY->FD_READ|FD_READ
-|17/03/2013  22:59:08|Informacion|Visor de Eventos   v1.0|CM_LOAD_LOG()|Se borraron todos los elementos que habian previamente en el listview.
-|17/03/2013  22:59:19|test|SCADA Alert Server    v1.0.0|PUERTO_TERMINALES_READY->FD_CLOSE()|FD_CLOSE
-|17/03/2013  22:59:23|Informacion|Visor de Eventos   v1.0|CM_LOAD_LOG()|Se borraron todos los elementos que habian previamente en el listview.
-|17/03/2013  23:04:00|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|hImageList vale: 4349824
-|17/03/2013  23:04:00|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|No ha sido posible destruir la lista de imagenes hImageList del listview.
-|17/03/2013  23:04:00|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|hImageListForError vale: 0
-|17/03/2013  23:04:00|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|No ha sido posible destruir la lista de imagenes hImageListForError del listview.
-|17/03/2013  23:04:00|Informacion|Visor de Eventos   v1.0|WM_DESTROY|Cierre de la ventana Visor de Eventos   v1.0.
+|18/03/2013  12:54:45|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|hImageList vale: 10268912
+|18/03/2013  12:54:45|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|No ha sido posible destruir la lista de imagenes hImageList del listview.
+|18/03/2013  12:54:45|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|hImageListForError vale: 0
+|18/03/2013  12:54:45|Informacion|Visor de Eventos   v1.0|WM_DESTROY->ImageList_Destroy()|No ha sido posible destruir la lista de imagenes hImageListForError del listview.
+|18/03/2013  12:54:45|Informacion|Visor de Eventos   v1.0|WM_DESTROY|Cierre de la ventana Visor de Eventos   v1.0.

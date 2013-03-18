@@ -1,4 +1,4 @@
-﻿Build started 17/03/2013 22:58:29.
+﻿Build started 18/03/2013 12:52:27.
      1>Project "C:\Proyectos C++ VS2010\SCADA Alert Server\SCADA Alert Server\SCADA Alert Server.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Debug\SCADA Alert Server.lastbuildstate".
@@ -130,8 +130,16 @@
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
      1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1725): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
-     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1687): warning C4101: 'temp' : unreferenced local variable
-     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1688): warning C4101: 'temp2' : unreferenced local variable
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1747): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1748): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1749): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1751): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1781): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
      1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1585): warning C4715: 'LogViewerProc' : not all control paths return a value
        ResourceCompile:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\SCADA Alert Server.res" "SCADA Alert Server.rc" 
@@ -159,4 +167,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.46
+Time Elapsed 00:00:02.35

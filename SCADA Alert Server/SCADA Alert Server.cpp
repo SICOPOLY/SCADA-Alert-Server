@@ -1682,8 +1682,8 @@ BOOL Log_InformationError(HWND hwnd, int iType, char *sDescription, char *sSourc
      GetLocalTime(&st);
      
      // LiveUpdate
-     //HWND hLogViewer=NULL;
-     //hLogViewer=FindWindowEx(0, 0, LOG_VIEWER, NULL);
+     HWND hLogViewer=NULL;
+     hLogViewer=FindWindowEx(0, 0, LOG_VIEWER, NULL);
      char *temp;
      char *temp2;
         
@@ -1728,7 +1728,7 @@ BOOL Log_InformationError(HWND hwnd, int iType, char *sDescription, char *sSourc
           fclose(hFile);
           
           // Si esta la ventana del LogViwer abierta...
-          /*if (hLogViewer!=NULL)
+          if (hLogViewer!=NULL)
           {
                // Y si esta activo la actualizacion automatica
                if(GetMenuState(GetMenu(hLogViewer), CM_LIVE_UPDATE_LOG, MF_BYCOMMAND) & MF_CHECKED)
@@ -1797,7 +1797,6 @@ BOOL Log_InformationError(HWND hwnd, int iType, char *sDescription, char *sSourc
                     }              
                }
           }
-		  */
           return true;     
      }      
 }
