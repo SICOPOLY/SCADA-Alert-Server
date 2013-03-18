@@ -1,6 +1,8 @@
 ========================================================================
     WIN32 APPLICATION : SCADA Alert Server Project Overview
 ========================================================================
+Autor:
+Diego Herrero Villarroya
 
 AppWizard has created this SCADA Alert Server application for you.
 
