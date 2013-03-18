@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="SCADA Alert Server.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONINFORMATION.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONQUESTION.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONEXCLAMATION.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONERROR.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONTEST.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MB_ICONSUCCESS.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\MiPc.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\uparrow.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\downarrow.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\save.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\reload.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\broom.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\bin2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\lock.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\logoff.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\standby.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\restart.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\shutdown.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\hibernar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\antenaON.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\antenaOFF.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\monitor.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\screensaver.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\poweron.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\cdrom.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\cdromin.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\cdromout.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\windows.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\log.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\exit.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\dialogbox.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\radioactive.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\programador.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\ip.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\dns.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\test.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\connections.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\screenshot.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\desconectar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\Ping.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\bmp\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gfx\Icons\alert.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCADA Alert Server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCADA Alert Server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SCADA Alert Server.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

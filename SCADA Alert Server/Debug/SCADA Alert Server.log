@@ -1,0 +1,162 @@
+﻿Build started 17/03/2013 22:58:29.
+     1>Project "C:\Proyectos C++ VS2010\SCADA Alert Server\SCADA Alert Server\SCADA Alert Server.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\SCADA Alert Server.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\SCADA Alert Server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\SCADA Alert Server.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SCADA Alert Server.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "SCADA Alert Server.cpp"
+         SCADA Alert Server.cpp
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(267): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(353): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(373): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(474): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(493): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(506): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(522): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(606): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(638): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(654): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(662): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(825): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(836): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(859): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(870): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(882): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(893): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(905): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(916): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(928): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(939): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(950): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(958): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(969): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(991): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1144): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1145): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1148): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1183): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1239): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1277): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1293): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1340): warning C4244: '=' : conversion from 'clock_t' to 'float', possible loss of data
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1347): warning C4244: '=' : conversion from 'clock_t' to 'float', possible loss of data
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1350): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1353): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1356): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1404): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1409): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1542): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1544): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1547): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1550): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1552): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1555): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1574): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1595): warning C4101: 'buffer' : unreferenced local variable
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1702): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1711): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1720): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1725): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1687): warning C4101: 'temp' : unreferenced local variable
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1688): warning C4101: 'temp2' : unreferenced local variable
+     1>c:\proyectos c++ vs2010\scada alert server\scada alert server\scada alert server.cpp(1585): warning C4715: 'LogViewerProc' : not all control paths return a value
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\SCADA Alert Server.res" "SCADA Alert Server.rc" 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SCADA Alert Server.exe.embed.manifest.res" "Debug\SCADA Alert Server_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.exe" /INCREMENTAL /NOLOGO ws2_32.lib vfw32.lib Winmm.lib oleaut32.lib Comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SCADA Alert Server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.lib" /MACHINE:X86 "Debug\SCADA Alert Server.res"
+         "Debug\SCADA Alert Server.exe.embed.manifest.res"
+         "Debug\SCADA Alert Server.obj"
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\SCADA Alert Server.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SCADA Alert Server.exe.embed.manifest" /manifest "Debug\SCADA Alert Server.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SCADA Alert Server.exe.embed.manifest.res" "Debug\SCADA Alert Server_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.exe" /INCREMENTAL /NOLOGO ws2_32.lib vfw32.lib Winmm.lib oleaut32.lib Comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SCADA Alert Server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.lib" /MACHINE:X86 "Debug\SCADA Alert Server.res"
+         "Debug\SCADA Alert Server.exe.embed.manifest.res"
+         "Debug\SCADA Alert Server.obj"
+         Debug\stdafx.obj
+         SCADA Alert Server.vcxproj -> C:\Proyectos C++ VS2010\SCADA Alert Server\Debug\SCADA Alert Server.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SCADA Alert Server.unsuccessfulbuild".
+         Touching "Debug\SCADA Alert Server.lastbuildstate".
+     1>Done Building Project "C:\Proyectos C++ VS2010\SCADA Alert Server\SCADA Alert Server\SCADA Alert Server.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.46
